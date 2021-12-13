@@ -1,0 +1,29 @@
+.root {
+    -fx-background-color: white;
+}
+.VBox {
+    -fx-background-color: #d8d7d3;
+}
+.input-button {
+    -fx-background-color: #d8d7d3;
+    -fx-border-radius: 20px;
+}
+.input-button:hover {
+    -fx-background-color: #363431;
+    -fx-text-fill: white;
+
+}
+.light-dark-toggle,.generate-button, .clear-button{
+    -fx-background-color: #363431;
+    -fx-text-fill: white;
+}
+.generate-button:hover {
+    -fx-background-color: green;
+}
+
+.clear-button:hover {
+    -fx-background-color: red;
+}
+
+
+

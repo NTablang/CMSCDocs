@@ -5,11 +5,12 @@
 This simple program is a bundler that seeks to amplify the documentation process by 
 providing a friendly UI interface that generates the complete package for a CMSC student
 such as the SRC & DOC directory, write-ups, screenshots, and UML diagrams all bundled up together. 
+
+## 
   
-  
-With using this program, one can get rid of the hassle and save time by manually creating documentation
-documents, copying and pasting them into select directories, with the risk of forgetting a project 
-documentation requirement.  
+With using this program, one can get rid of the hassle and save time due to problems such as manually creating documentation
+documents, copying and pasting them into select directories, and having the risk of forgetting a project 
+documentation requirement. This will mitigate those.  
 
 
 

@@ -1,7 +1,7 @@
 
 # CMSC Docs Builder
 
-<img align="right" src="cmscdocs.gif" alt="gif of the CMSCDocs demo">
+<img align="right" width ="500px" src="cmscdocs.gif" alt="gif of the CMSCDocs demo">
 This simple program is a bundler that seeks to amplify the documentation process by 
 providing a friendly UI interface that generates the complete package for a CMSC student
 such as the SRC & DOC directory, write-ups, screenshots, and UML diagrams all bundled up together. 
